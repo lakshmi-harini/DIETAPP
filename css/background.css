@@ -1,0 +1,13 @@
+/*
+styles with background properties*/
+h2 {
+    background-color: palegreen;
+}
+body { 
+   /* background-color: palevioletred;
+    background-image: url("./images/Capture.PNG");
+    background-repeat: no-repeat;
+    background-position: right top;*/
+    background: 
+     url("./images/Capture.PNG") no-repeat right top rgb(0, 255, 51);
+}

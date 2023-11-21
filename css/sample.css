@@ -1,0 +1,21 @@
+   /* 
+   applying styling */
+   /* element selector */
+    h2 {
+        color:cadetblue;
+    }
+
+    /* grouping selector */
+    h2,p {
+        text-align: center;
+    }
+
+    /*id selector */
+    #first {
+    color: blue;
+    font:italic;
+    }
+    /*class selector */
+    .second {
+        color: rgb(255,0,123);
+    }

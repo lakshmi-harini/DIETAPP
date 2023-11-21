@@ -1,0 +1,10 @@
+h1 {
+   background-color:aqua;
+}
+form {
+    background-color:rgb(85, 178, 178);
+    border: 50px solid red;
+  border-radius: 2px;
+  margin: 10px 500px 10px 500px;
+  padding:50px 10px 50px 10px;
+}

@@ -1,0 +1,66 @@
+<html>
+    <head> 
+    <h2>Please signup here!!!</h2>
+    
+    <body>
+    <table border="2">
+    <tr>     
+    <td><label>enter username:</label></td>
+    <td><input type="username"></td>
+    </tr>
+    <tr>
+    <td><label>enter password:</label></td>
+    <td><input type="password" ></td>
+   </tr>
+   <tr>
+    <td><label>Confirm password</label></td>
+    <td><input type="password" ></td>
+    </tr>
+    <tr>
+    <label>Select gender:</label>
+    <input type="radio" >
+    <label for="male" name="male">male</label>
+    <input type="radio">
+    <label for="female" name="female">female</label>
+    <label>Enter mobile number</label>
+    <input type="number">
+    </fieldset>
+    <fieldset>
+    <label>Enter DOB</label>
+    <input type="date">
+    </fieldset>
+    <fieldset>
+    <label>Enter Address:</label>
+    <textarea rows="10" cols="15" ></textarea>
+    </fieldset>
+    <fieldset>
+    <label>Select Qualification</label>
+    <select>
+    <option >select </option>
+    <option >graduate</option>
+    <option >undergraduate</option>
+    <option >undergraduate</option>
+    </select>
+    </fieldset>
+    <label>Choose your skills</label>
+    <select multiple>
+        <option value="Java">Java</option>
+        <option value=" HTML5">HTML5</option>
+        <option value=" CSS">CSS</option>
+        <option value="JavaScript">JavaScript</option>
+    </select><br><br>
+    <label>Prefered Shift</label>
+    <input type="checkbox">
+    <label >Dayshift</label>
+    <input type="checkbox">
+    <label >Nightshift</label>
+    <input type="checkbox">
+    <label>Dayshift/Nightshift</label>
+    <br><br>
+    <label>Upload your resume:</label>
+    <input type="file">
+    <br><br><table></body></head>
+
+    <button>Register</button>
+    <button>Reset</button>
+</html>

@@ -1,0 +1,14 @@
+/*
+styles with border properties*/
+p {
+    /*border-style : dashed;
+    border-width: 10px;
+    border-color: rebeccapurple;
+    border-top-style: dotted;
+    border-bottom-style: outset;
+    border-left-color: blue;
+    border-right-color: blue;
+    border-right-style: initial;
+    border-left-style: inset;*/
+    border: 7px solid;
+}

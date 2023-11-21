@@ -1,0 +1,36 @@
+html>
+    <head> 
+    <h2>Please signup here!!!</h2>
+    
+    <body>
+    <table border="2">
+    <tr>     
+    <td><label>enter username:</label></td>
+    <td><input type="username"></td>
+    </tr>
+    <tr>
+    <td><label>enter password:</label></td>
+    <td><input type="password" ></td>
+   </tr>
+   <tr>
+    <td><label>Confirm password</label></td>
+    <td><input type="password" ></td>
+    </tr>
+    <tr>
+        <label>Select gender:</label>
+    <input type="radio" >
+    <label for="male" name="male">male</label>
+    <input type="radio">
+    <label for="female" name="female">female</label>
+    <label>Enter mobile number</label>
+    <input type="number">
+</fieldset>
+<fieldset>
+<label>Enter DOB</label>
+<input type="date">
+</fieldset>
+<fieldset>
+<label>Enter Address:</label>
+<textarea rows="10" cols="15" ></textarea>
+</fieldset>
+<fieldset>

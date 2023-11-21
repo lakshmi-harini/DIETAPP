@@ -1,0 +1,11 @@
+h2 {
+    background-color: palegreen;
+}
+ 
+body{
+    background: url("./images/images.jpg");
+    border-style: dotted;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

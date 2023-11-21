@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+    <body>
+        <center>
+            <br><br>
+            <h1>welcome to DIET</h1>
+            <label>Enter your name:</label>
+            <input type="text" name="">
+            <br><br>
+            <label>Enter your passwoard:</label>
+            <input type="text" name="">
+            <br><br>
+            <button>login</button>
+        </form>
+        </center>
+        <body>
+        </head>
+        
